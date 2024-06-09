@@ -3,7 +3,7 @@ package com.goalias.utils;
 import cn.hutool.core.util.StrUtil;
 
 /**
- * @author 虎哥
+ * @author 高文升
  */
 public class RegexUtils {
     /**

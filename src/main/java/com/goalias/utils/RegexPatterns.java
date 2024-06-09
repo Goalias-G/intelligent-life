@@ -1,7 +1,7 @@
 package com.goalias.utils;
 
 /**
- * @author 虎哥
+ * @author 高文升
  */
 public abstract class RegexPatterns {
     /**
